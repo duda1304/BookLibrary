@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "rich-ripple-279906",
+  "private_key_id": "9a613acfa5aff5934cfddac8e9ae4e6d7a0e95d2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC9erKQVrCHMuBe\nzp391Ootd0wbuMKVYm+c6DFzMnli2IHHm2mBzsw5mGbaAcMofGHBoGuQ3WM2YddE\nCxv/3j3A2eMH5vWpOOg6Dz3wzSC9q9IzoTXEqvYQi3Gk7kxhNBboJNbgLDcJqi4X\nyPyAz7Lrk4vEJghhAzBjVUOpMSCwZH3wpf6t6/MHenBlRcFJTguA1f1urhSmBBmu\nmIBIn9x27Ah/vE1zVV9XgJ6nA3b4JCdtGKMmePI69PFc/jllNDJ9mcpefXFNJ3kL\nMFM37W3ljsxbkuLt4N3Ph6bKb5oyWd3RXSAheGUmk0Sdf8J5fCco1LTuJSoDDwD9\nuuJ/YCJ7AgMBAAECggEALU5l3QKFgkZlhPXlrDiZaBay8Zv7lwmrA3s3u8JRaRO4\n8HgWQc4nYgwxZ6ZtOkSHgWtw3Po6y1mYxfHcF5HV9UOEODL/AaAUUzGqz2XVEtU/\nVU4SU7zHSox1N4ktZT61zXtlj8Oyw1JYZCKQUeKX9yFYFaY8can4C4BrRczz8oki\n2k8r3FlCJC/+ipeKOgj+CU4QNxSDk5bdnZfBlRPAKVW14IZQ8gj04c0Ol6UW0MKN\noF4UexZbYn5SKEKBp4CAzkWesFwc+ud6ZGLiZEK0bzOwPfO1pQxC1LmLYr9DC3j9\nvuUjWDMZkZw8IzlwlSyIiFV0XzZEUBisLbzvZHIbPQKBgQD26h1WK7yVOKB7m5U9\ntF8xg+/9QrfBkUK4Wy9v6P8LLRyT9/ulOq7vhW17/USr8JHK+Ht83fKOcxBTVABu\npiipX7IIHT2Wpq/k77xyCQIZxrmLJxxV9Bjag7W1o02cemgrO8+vhq3eVZx18LVD\nTcmDP9OYV7ktuL3Rc1DKpqfUtQKBgQDEc435FFhYtkEy3Wf/4mnB6UsIcZvb57eA\nX7a9pgp6R3Osdl4RN8tI87h6ZxkNcIsonPg6RKfnh0Vb8/Se14wQy2Y+hsOgWGNI\nqvaye7UBvMNw1Nz0OdRuN+RFCSDmYuNPT0Al91aAPMeRBZ57PWvC5PYW4inUqyS0\njafE6qhIbwKBgQDGgz8G0q8Rga908YcxTtzh4GOISKWYGIN92MHwxXCXubMqO8uz\n8dRHegymDN+zJPzyJIiTwZWLdXMAq56VVz2FvwxRfcDQaD8uXpgxTpDDzIPMHqun\nZ1K8C/yBhkOVtMwfRj0Zr7wF7uqV3+q7q8SBo0UpTA3zdn4V8RJZe1efqQKBgQCv\nOP5+F0aBwfY/fzpfAz0fZ420d1j0eSa0iyq815fq30ZuopletCxO4ow+KS0wTpzg\n2bmSh2BX49Dapqse7tUQuct1o9BjedL8ovkt06dsaEjOoB6AfABdWt7xMKY2uCdV\nuzNVadquwQej86Ya+HrguEZDvPBgr1Iq9VqaCk+VYwKBgQCiOZRQN0prsxeinHKa\nR06DVYlJ+y/H4Ko72pQQT2ImAC163hX/wAF4r6JrgE4RkHMw6Ktffb6PJwh4cdG3\nlVInB99QFnwIlpKS14bBDuTKkYZhtO6MifAiHbnB03EmFi2FMXpCZDBTqSVT31+8\nA7nVTYGgB3EIgz7my+R/KSJkcA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "bubamara@rich-ripple-279906.iam.gserviceaccount.com",
+  "client_id": "100944931027815373776",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bubamara%40rich-ripple-279906.iam.gserviceaccount.com"
+}

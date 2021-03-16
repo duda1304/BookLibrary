@@ -1,0 +1,151 @@
+{
+    "foundbooks": [
+      {
+        "id": 1,
+        "name": "The Murder On The Links",
+        "author" : "Agatha Christie",
+        "imageUrl" : "/TheMurderOnTheLinks.jpg"
+      },
+      {
+        "id": 2,
+        "name": "My Calamity Jane",
+        "author" : "Cynthia Hand",
+        "imageUrl" : "/MyCalamityJane.jpg"
+      },
+      {
+        "id": 3,
+        "name": "The Catcher In The Rye",
+        "author" : "J. Salinger",
+        "imageUrl" : "/TheCatcherInTheRye.jpg"
+      },
+      {
+        "id": 2,
+        "name": "My Calamity Jane",
+        "author" : "Cynthia Hand",
+        "imageUrl" : "/MyCalamityJane.jpg"
+      },
+      {
+        "id": 3,
+        "name": "The Catcher In The Rye",
+        "author" : "J. Salinger",
+        "imageUrl" : "/TheCatcherInTheRye.jpg"
+      },
+      {
+        "id": 2,
+        "name": "My Calamity Jane",
+        "author" : "Cynthia Hand",
+        "imageUrl" : "/MyCalamityJane.jpg"
+      },
+      {
+        "id": 3,
+        "name": "The Catcher In The Rye",
+        "author" : "J. Salinger",
+        "imageUrl" : "/TheCatcherInTheRye.jpg"
+      }
+    ],
+    "mybooks": [
+      {
+        "id": 1,
+        "name": "The Murder On The Links",
+        "author" : "Agatha Christie",
+        "imageUrl" : "/TheMurderOnTheLinks.jpg"
+      },
+      {
+        "id": 2,
+        "name": "My Calamity Jane",
+        "author" : "Cynthia Hand",
+        "imageUrl" : "/MyCalamityJane.jpg"
+      }
+    ], 
+    "users": [
+      {
+        "id": 1,
+        "name": "Dubravka Špoljarić",
+        "googleId" : "",
+        "imageUrl" : "",
+        "location" : "Zagreb"
+      },
+      {
+        "id": 2,
+        "name": "Loki",
+        "googleId" : "",
+        "imageUrl" : "/loki.png",
+        "location" : "Pula"
+      },
+      {
+        "id": 3,
+        "name": "Zvone",
+        "googleId" : "",
+        "imageUrl" : "/zvone.png",
+        "location" : "Rijeka"
+      },
+      {
+        "id": 4,
+        "name": "Matija",
+        "googleId" : "",
+        "imageUrl" : "/matija.png",
+        "location" : "Osijek"
+      }
+    ],
+    "freebooks": [
+      {
+        "id": 123,
+        "name": "The Murder On The Links",
+        "author" : "Agatha Christie",
+        "imageUrl" : "/TheMurderOnTheLinks.jpg",
+        "userId" : 1,
+        "location": "Zagreb"
+      },
+      {
+        "id": 2356,
+        "name": "My Calamity Jane",
+        "author" : "Cynthia Hand",
+        "imageUrl" : "/MyCalamityJane.jpg",
+        "userId" : 2,
+        "location": "Pula"
+      },
+      {
+        "id": 31,
+        "name": "The Catcher In The Rye",
+        "author" : "J. Salinger",
+        "imageUrl" : "/TheCatcherInTheRye.jpg",
+        "userId" : 3,
+        "location": "Rijeka"
+      },
+      {
+        "id": 2356,
+        "name": "Just Travel",
+        "author" : "Jessica Medina",
+        "imageUrl" : "/JustTravel.jpg",
+        "userId" : 4,
+        "location": "Osijek"
+      },
+      {
+        "id": 31,
+        "name": "Between Shades Of Grey",
+        "author" : "Ruta Sepetys",
+        "imageUrl" : "/BetweenShadesOfGrey.jpg",
+        "userId" : 1,
+        "location": "Zagreb"
+      },
+      {
+        "id": 2356,
+        "name": "Lost Hills",
+        "author" : "Lee Goldberg",
+        "imageUrl" : "/LostHills.jpg",
+        "userId" : 2,
+        "location": "Pula"
+      },
+      {
+        "id": 31,
+        "name": "Running Out Of Time",
+        "author" : "Margaret Haddix",
+        "imageUrl" : "/RunningOutOfTime.jpg",
+        "userId" : 3,
+        "location": "Rijeka"
+      }
+    ],
+    "wishlist": [
+    ]
+  }
+  
